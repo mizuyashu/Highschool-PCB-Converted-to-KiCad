@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "NSD Card_7b40bea8b68f42c8b6208f8d8a235d71-import-fps") (type "KiCad") (uri "${KIPRJMOD}/NSD Card_7b40bea8b68f42c8b6208f8d8a235d71-import-fps.pretty") (options "kicad_import_cache=1") (descr ""))
+)
